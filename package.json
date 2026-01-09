@@ -6,7 +6,7 @@
     "dev": "echo 'Static site - no build required'",
     "build": "echo 'Static site - no build required'"
   },
-  "keywords": [],
+  "keywords": ["education", "vipstudy", "learning"],
   "author": "",
   "license": "MIT"
 }
